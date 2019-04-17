@@ -41,13 +41,13 @@ roboticsAddons();
 ![](./images/addon_explore.PNG)
 
 ［インストール］をクリックします。
-![](./images/install_if_ros_custom_msg.PNG)
+![](./images/install_if_ros_custom_msg.png)
 
 ［アドオン エクスプローラー］のセットアップ指示に引き続き従い、アドオンをインストールします。［承諾する］をクリックします。
-![](./images/agree_license.PNG)
+![](./images/agree_license.png)
 
 サードパーティ ソフトウェアの画面が出てきたら、［次へ］をクリックします。
-![](./images/third_party_software.PNG)
+![](./images/third_party_software.png)
 
 #### 参考
 1.[Install Robotics System Toolbox Add-ons （MathWorks Webサイト）](https://www.mathworks.com/help/releases/R2018a/robotics/ug/install-robotics-system-toolbox-support-packages.html)
